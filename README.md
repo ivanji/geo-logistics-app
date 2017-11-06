@@ -3,8 +3,8 @@ iOS App on React Native using Google Maps/Directions API. Raw and unstyled.
 
 *Quick Test integrating Google Maps/location APIs to track geolocation data from third party API.*
 
-In this demo, the data generating the route and placing the marker on the map is static but it can easily be fetched from
-any API, using promises.
+In this demo, the data generating the route -and placing the marker on the map- is static, but this can easily be fetched from
+any APIs.
 
 Initial App is iOS only and also easily extandable to Android.
 
